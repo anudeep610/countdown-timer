@@ -1,0 +1,26 @@
+.header-container{
+    position: relative;
+    bottom: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: nowrap;
+    padding: 2rem 0;
+}
+
+.header-container .header-image-box{
+    flex-basis: 20rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.header-container .header-image-box .image{
+    width: 50%;
+    height: auto;
+}
+
+.header-container .header-image-box .image2{
+    width: 30%;
+    height: auto;
+}
