@@ -3,6 +3,7 @@
     justify-content: space-around;
     align-items: flex-start;
     padding: 2rem  0;
+    width: 100%;
 }
 
 .timer-container .timer .clock div{
@@ -12,10 +13,11 @@
 }
 
 .timer-container .timer .clock div p{
-    font-size: 13rem;
+    font-size: 12rem;
     margin: 0;
 }
 
 .timer-container .timer .clock div small{
-    font-size: 3rem;
+    font-size: 2.5rem;
+    padding: 0 1rem;;
 }
